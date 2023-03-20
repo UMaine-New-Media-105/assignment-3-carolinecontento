@@ -17,6 +17,7 @@ the smile is a half arc and is filled black
 this was then called in the draw function as myCatcher(mouseX, catcherY);
 mouseX allows the sprite to move back and forth across the sand
 the rect creates the ocean and the background is the sand 
+
 https://editor.p5js.org/carolinecontento/sketches/u_NRLSUUI
 set the catcher height and width to 50 in the set up function
 set the catcher X = 50 and catcher Y = 320 in the set up function 
@@ -36,3 +37,11 @@ the smile is a half arc and is filled black
 this was then called in the draw function as myCatcher(mouseX, catcherY);
 mouseX allows the sprite to move back and forth across the sand
 the rect creates the ocean and the background is the sand 
+
+https://editor.p5js.org/carolinecontento/sketches/nzBENMxCT
+added foodY = random();
+  foodX = random(0, 300);
+  speed = random(5, 10);
+  this allowed the food for the crab to fall
+  in the circle added foodX and foodY and this activated the fall
+  added foodY = foodY + speed on line 25
