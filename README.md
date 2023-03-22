@@ -45,3 +45,9 @@ added foodY = random();
   this allowed the food for the crab to fall
   in the circle added foodX and foodY and this activated the fall
   added foodY = foodY + speed on line 25
+  
+  https://editor.p5js.org/carolinecontento/sketches/YVsUTFcPI
+added a function mousePressed 
+and made foodIsFalling = true 
+in the set up function stated foodIsFalling = false
+this allows the food to fall when I press the mouse
