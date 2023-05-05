@@ -51,3 +51,11 @@ added a function mousePressed
 and made foodIsFalling = true 
 in the set up function stated foodIsFalling = false
 this allows the food to fall when I press the mouse
+
+https://editor.p5js.org/carolinecontento/sketches/pSSlU8hZK
+added  if (notEaten == true) 
+added if (d <= 50) {
+    notEaten = false;
+  }
+  this allows the kelp to be eaten 
+  On line 16 and 17 it randomizes the foodX and the speed of the kelp
